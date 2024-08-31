@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hello Java EE Continuous Delivery!</title>
+        <title>Maven Project Deployed Successfully</title>
     </head>
     <body bgcolor="cyan" text="blue">
  <table border = "4" bordercolor = "brown" bgcolor = "yellow">
